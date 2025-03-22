@@ -47,7 +47,7 @@ This dashboard uses the Wine Quality dataset from Kaggle, which contains various
 
 1. Clone this repository:
    ```
-   git clone https://github.com/TashiSoldin/wine-quality-dashboard.git
+   git clone https://github.com/TashiSoldin/SIADS521-Assignment-03.git
    cd wine-quality-dashboard
    ```
 
