@@ -101,6 +101,8 @@ The Univariate Analysis tab allows for exploration of individual variable distri
 - View the distribution of all variables at once
 
 ![Dashboard View 2a](https://github.com/user-attachments/assets/f4feeb2a-4779-46bf-8592-83dd62092030)
+![Dashboard View 2b](https://github.com/user-attachments/assets/fb960d77-08d1-430b-a8e9-4198fae17f25)
+
 
 ### Multivariate Analysis Tab
 The Multivariate Analysis tab enables exploration of relationships between variables:
