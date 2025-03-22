@@ -100,8 +100,8 @@ The Univariate Analysis tab allows for exploration of individual variable distri
 - Toggle between histogram and box plot views
 - View the distribution of all variables at once
 
-![Dashboard View 2a](https://github.com/user-attachments/assets/f4feeb2a-4779-46bf-8592-83dd62092030)
-![Dashboard View 2b](https://github.com/user-attachments/assets/fb960d77-08d1-430b-a8e9-4198fae17f25)
+![Dashboard View 2a](https://github.com/user-attachments/assets/90e73f13-b768-498a-99c9-bb6c9f2df0f3)
+![Dashboard View 2b](https://github.com/user-attachments/assets/c50569f6-a9d5-4e51-b568-5e6c0b7360f7)
 
 
 ### Multivariate Analysis Tab
